@@ -1,1 +1,1 @@
-# CS286---Machine-Learning
+# CS286---Machine-Learning Repository
